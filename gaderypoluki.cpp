@@ -64,7 +64,7 @@
             break;
             case 2: zakonczenie();
             break;
-            default: cout << "Nie ma takiej opcji!" << cout;
+            default: cout << "Nie ma takiej opcji!" << endl;
             }
         }
 
